@@ -18,5 +18,7 @@ My project validates and solves Sudoku projects using Java
 1. In Eclipse, right-click `SudokuValidatorTest.java`
 2. Select **Run As → JUnit Test**
 
-3. 
+   Sample boards are in:
+- `sodoku_validator/example_boards/`
+- `sodoku_validator/example_outputs/`
   
